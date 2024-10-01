@@ -1,3 +1,3 @@
 # Xclone
 
-A twitter or X clone that works like shit
+A twitter or X clone that works like poop
